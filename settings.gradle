@@ -1,2 +1,3 @@
+include ':p0131_menusimple'
 include ':app'
 rootProject.name='StartAndroid'
