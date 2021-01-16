@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P0132_MenuSimple</string>
+    <string name="action_settins">settings</string>
+    <string name="action_item1">item1</string>
+    <string name="action_item2">item2</string>
+    <string name="action_item3">item3</string>
+</resources>
