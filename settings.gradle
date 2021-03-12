@@ -1,5 +1,7 @@
+include ':headfirst_myconstraintlayout'
 include ':filipspro_geoquiz'
 include ':p0231_oneactivitystate'
+include ':headfirst_duck'
 include ':p0211_twoactivity'
 include ':p0201_simpleanimation'
 include ':headfirst_stopwatch'
