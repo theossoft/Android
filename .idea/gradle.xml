@@ -10,6 +10,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/a0101_crowgager" />
+            <option value="$PROJECT_DIR$/a0103_crowngager" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/filipspro_geoquiz" />
             <option value="$PROJECT_DIR$/headfirst_beeradviser" />
