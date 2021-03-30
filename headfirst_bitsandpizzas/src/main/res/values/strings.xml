@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HeadFirst Bits and Pizzas</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Order title</string>
+    <string name="action_share">Share</string>
+</resources>
